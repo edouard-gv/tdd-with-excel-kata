@@ -6,11 +6,11 @@ Allow people not familiar with TDD but somehow familiar with excel to understand
 - small explanation of the three steps of TDD (red, green, refactor)
 - demo in excel on the straight-forward example of computing the email adress of a new employee in a company.
 
-From now on, the goal is to find, step by step and using TDD, the formula that calculates the bonus of an employee based on the following [rules of bonus calculation](Bonus%20calculation%rules.md).
+From now on, the goal is to find, step by step and using TDD, the formula that calculates the bonus of an employee based on the following [rules of bonus calculation](Bonus%20calculation%20rules.md).
 
 ## Iteration 1 (small groups)
 
-- Implement the **minimalistic** formula that works for the example given in the [documentation](Bonus%20calculation%rules.md). Minimalistic means that it should work only for the given example. For instance, there should be no "if" in your formula.
+- Implement the **minimalistic** formula that works for the example given in the [documentation](Bonus%20calculation%20rules.md). Minimalistic means that it should work only for the given example. For instance, there should be no "if" in your formula.
 
 ## Iteration debrief (all together)
 * A participant copilote the pilote (animator).
@@ -42,4 +42,4 @@ From now on, the goal is to find, step by step and using TDD, the formula that c
 * The animator proposes some refactoring.
 
 ## General debrief
-- What can be taken from this session : [SPOIL ALERT](SPOIL%20ALERT%20-%20some%20learnings.md")
+- What can be taken from this session : [SPOIL ALERT](SPOIL%20ALERT%20-%20some%20learnings.md)
