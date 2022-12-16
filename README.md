@@ -1,6 +1,8 @@
 # tdd-with-excel-kata
-## Goal of the session
+## Goal of the session / Ice braking
 Allow people not familiar with TDD but somehow familiar with excel to understand the concept of TDD and some other software craftership practices.
+
+- What is your level in TDD (0-5) and in Excel (0-5)?
 
 ## Concept presentation (all together)
 - small explanation of the three steps of TDD (red, green, refactor)
@@ -42,4 +44,6 @@ From now on, the goal is to find, step by step and using TDD, the formula that c
 * The animator proposes some refactoring.
 
 ## General debrief
-- What can be taken from this session : [SPOIL ALERT](SPOIL%20ALERT%20-%20some%20learnings.md)
+- Have you learned something?
+
+(Some ideas: [SPOIL ALERT](SPOIL%20ALERT%20-%20some%20learnings.md))
