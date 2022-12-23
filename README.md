@@ -20,10 +20,10 @@ From now on, the goal is to find, step by step and using TDD, the formula that c
 * We choose together the next exemple we want to test and that does not pass. Hint: we'll choose a simple one.
 
 ## Iteration 2 (small groups) 
-* refactor your code as proposed in the debrief.
-* try "pilote / copilote" mob programming way.
-* adapt the formula for the chosen exemple to pass.
-* if you have the time to implement other cases, don't forget to breathe after the green phase in order to identify refactorings.
+* Refactor your code as proposed in the debrief.
+* Try "pilote / copilote" mob programming way.
+* Adapt the formula for the chosen exemple to pass.
+* If you have the time to implement other cases, don't forget to breathe after the green phase in order to identify refactorings.
 
 ## Iteration debrief (all together)
 * How did you choose the next case to implement?
