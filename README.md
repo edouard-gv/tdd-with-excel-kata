@@ -22,7 +22,7 @@ From now on, the goal is to find, step by step and using TDD, the formula that c
 ## Iteration 2 (small groups) 
 * refactor your code as proposed in the debrief.
 * try "pilote / copilote" mob programming way.
-* choose a new exemple and adapt your formula. Hint: choose a simple one.
+* adapt the formula for the chosen exemple to pass.
 * if you have the time to implement other cases, don't forget to breathe after the green phase in order to identify refactorings.
 
 ## Iteration debrief (all together)
