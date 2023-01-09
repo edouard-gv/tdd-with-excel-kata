@@ -1,6 +1,6 @@
 # tdd-with-excel-kata
-## Goal of the session / Ice braking
-Allow people not familiar with TDD but somehow familiar with excel to understand the concept of TDD and some other software craftership practices.
+## Goal of the session / Ice breaking
+Allow people not familiar with TDD but somewhat familiar with excel to understand the concept of TDD and some other software crafting practices.
 
 - What is your level in TDD (0-5) and in Excel (0-5)?
 
@@ -15,13 +15,13 @@ From now on, the goal is to find, step by step and using TDD, the formula that c
 - Implement the **minimalistic** formula that works for the example given in the [documentation](Bonus%20calculation%20rules.md). Minimalistic means that it should work only for the given example. For instance, there should be no "if" in your formula.
 
 ## Iteration debrief (all together)
-* A participant copilote the pilote (animator).
+* A participant copilot the pilot (animator if no volunteers).
 * The animator proposes some refactorings.
-* We choose together the next exemple we want to test and that does not pass. Hint: we'll choose a simple one.
+* We choose together the next example we want to test and that does not pass. Hint: we'll choose a simple one.
 
 ## Iteration 2 (small groups) 
 * Refactor your code as proposed in the debrief.
-* Try "pilote / copilote" mob programming way.
+* Try "pilot / copilot" mob programming way.
 * Adapt the formula for the chosen exemple to pass.
 * If you have the time to implement other cases, don't forget to breathe after the green phase in order to identify refactorings.
 
