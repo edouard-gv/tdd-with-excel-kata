@@ -6,7 +6,9 @@ Allow people not familiar with TDD but somewhat familiar with excel to understan
 
 ## Concept presentation (all together)
 - small explanation of the three steps of TDD (red, green, refactor)
+![tdd basics](./tdd-basics.png)
 - demo in excel on the straight-forward example of computing the email adress of a new employee in a company.
+![tdd in XL](./tdd-XL.png)
 
 From now on, the goal is to find, step by step and using TDD, the formula that calculates the bonus of an employee based on the following [rules of bonus calculation](Bonus%20calculation%20rules.md).
 
