@@ -1,13 +1,13 @@
-# tdd-with-excel-kata
+# tdd-with-spreadsheet-kata
 ## Goal of the session / Ice breaking
-Allow people not familiar with TDD but somewhat familiar with excel to understand the concept of TDD and some other software crafting practices.
+Allow people not familiar with TDD but somewhat familiar with spreadsheet to understand the concept of TDD and some other software crafting practices. These kata can be done on Excel (hint: use Tables), Google Sheets, Grist...
 
-- What is your level in TDD (0-5) and in Excel (0-5)?
+- What is your level in TDD (0-5) and in the chosen spreadsheet tool (0-5)?
 
 ## Concept presentation (all together)
 - small explanation of the three steps of TDD (red, green, refactor)
 ![tdd basics](./tdd-basics.png)
-- demo in excel on the straight-forward example of computing the email adress of a new employee in a company.
+- demo in the spreadsheet tool on the straight-forward example of computing the email adress of a new employee in a company.
 ![tdd in XL](./tdd-XL.png)
 
 From now on, the goal is to find, step by step and using TDD, the formula that calculates the bonus of an employee based on the following [rules of bonus calculation](Bonus%20calculation%20rules.md).
